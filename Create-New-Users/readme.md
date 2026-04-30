@@ -46,7 +46,7 @@ Will be adding new users to the Help Desk group
 ![Create-New-Users](Servicenow-instance-newuser-group-8.png)
 
 
-###  🛠️ Verify users to the HELP DESK GROUP
+###  🛠️ Verify users to the HELP DESK GROUP - Users created Bruce Banner, Peter Parker, Tony Stark
 ![Create-New-Users](Servicenow-instance-newuser-group-9.png)
 
 ![Create-New-Users](Servicenow-instance-newuser-group-10.png)
