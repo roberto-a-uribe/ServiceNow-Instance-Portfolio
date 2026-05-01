@@ -2,7 +2,7 @@
 
 
 
-### 🛠️ Create A Request
+### 🛠️ Create an IT Request
 
 
 ![Ticket-Creation-Process](create-new-request-1.png)
@@ -12,7 +12,8 @@
 ![Ticket-Creation-Process](create-new-request-3.png)
 
 
-### 🛠️ Create A ticket and manage ticket flow
+
+### 🛠️ Create an IT ticket and manage ticket flow
 
 
 
@@ -23,7 +24,15 @@
 ![Ticket-Creation-Process](ticket-creation-3.png)
 
 ![Ticket-Creation-Process](ticket-creation-4.png)
+
 ![Ticket-Creation-Process](ticket-creation-resolve-5.png)
+
 ![Ticket-Creation-Process](ticket-creation-resolve-6.png)
+
+
+### 🛠️ Ticket Resolution
+
+
+
 ![Ticket-Creation-Process](ticket-creation-resolve-7.png)
 
