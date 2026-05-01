@@ -2,7 +2,7 @@
 
 
 
-### Create A Request
+### 🛠️ Create A Request
 
 
 ![Ticket-Creation-Process](create-new-request-1.png)
@@ -12,7 +12,7 @@
 ![Ticket-Creation-Process](create-new-request-3.png)
 
 
-## Createa A ticket and ticket flow
+### 🛠️ Create A ticket and manage ticket flow
 
 
 
