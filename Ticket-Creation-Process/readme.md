@@ -3,7 +3,7 @@
 
 
 
-## Createa A ticket anf ticket flow
+## Createa A ticket and ticket flow
 
 
 
