@@ -1,7 +1,9 @@
-## 💡 In this exercise I created several users to my a personal ServiceNow developer instance and assigned them to the helpdesk group.
+## 💡 In this exercise, I provisioned multiple user accounts within my personal ServiceNow Developer Instance and assigned them to the appropriate Helpdesk assignment group, establishing role‑based access controls and aligning group membership with ITIL‑compliant support tier structures.
+
 
 
 ### 🛠️ First Step - showcasing the actual personal ServiceNow instance
+
 
 
 ![Create-New-Users](Servicenow-instance-1.png)
