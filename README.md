@@ -12,3 +12,7 @@
 
 ### 🛠️[Objective 1 - Create New Helpdesk Technicians for ServiceNow](https://github.com/roberto-a-uribe/ServiceNow-Instance-Portfolio/tree/main/Create-New-Users)
 
+
+### 🛠️[Objective 2 - Create New Resource Request and Ticket](https://github.com/roberto-a-uribe/ServiceNow-Instance-Portfolio/tree/main/Ticket-Creation-Process)
+
+### 🛠️ Objective 3 - Create a knowledgebase Catalog ( Coming soon )
