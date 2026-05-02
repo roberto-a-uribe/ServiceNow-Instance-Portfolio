@@ -15,4 +15,4 @@
 
 ### 🛠️[Objective 2 - Create New Resource Request and Ticket](https://github.com/roberto-a-uribe/ServiceNow-Instance-Portfolio/tree/main/Ticket-Creation-Process)
 
-### 🛠️ Objective 3 - Create a knowledgebase Catalog ( Coming soon )
+### 🛠️[Objective 3 - Create a Knowledge Base Catalog](https://github.com/roberto-a-uribe/ServiceNow-Instance-Portfolio/tree/main/Catalog-Knowledge-Creation)
